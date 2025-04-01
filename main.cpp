@@ -9,5 +9,6 @@ void main() {
 	cout << "print 4" << endl;
 	cout << "print 5" << endl;
 	cout << "this is my first change";
+	cout << "this is my second change";
 	game::printStatment();
 }
