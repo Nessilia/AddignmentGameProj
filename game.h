@@ -7,7 +7,7 @@ public:
 
 	static void printStatment();
 	/*
-	im running out of things to say
+	Matthew changing this line it will be n2
 	man i cant wait for summer
 	i dont like this assignment
 	im a little excited for our in class presentations
